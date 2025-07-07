@@ -102,7 +102,7 @@ plt.title('Distribution of TenYearCHD Versus BPMeds')
 plt.tight_layout()
 plt.show()
 ```
-[BPMeds and TenYearCHD]Chart(https://github.com/Irene-Chola/Massachussets-General-Hospital-Machine-Learning-Model/blob/main/Screenshot_7-7-2025_17054_.jpeg)
+[BPMeds and TenYearCHDChart](https://github.com/Irene-Chola/Massachussets-General-Hospital-Machine-Learning-Model/blob/main/Screenshot_7-7-2025_17054_.jpeg)
 
 ### Model Selection 
 To split and test the data various machine learning algorithms are used. In this project the following algorithms were used: 
