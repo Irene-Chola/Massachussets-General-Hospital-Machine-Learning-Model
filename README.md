@@ -46,6 +46,8 @@ dataset['glucose'].fillna(dataset['glucose'].mean(), inplace = True
 Exploratory data analysis involves visualization of the relationship of various variables with the target variable. In the dataset the target variable is the tenYearCHD which is a binary value indicating the risk of coronary heart disease among the participants in a ten-year span.  
 
 In the exploratory data analysis, the following variable relationships were visualized: 
+
+(Two sample charts and their respective pythong codes provided)
 #### 1. Age
 #### 2. Gender
   - Distribution of TenYearCHD for each Gender
