@@ -6,7 +6,9 @@ Predicting heart disease risk is crucial for early intervention and preventive m
 
 The dataset used for this analysis contains a variety of attributes such as age, sex, cholesterol levels, blood pressure, and other relevant health indicators. 
 
-Here is the dataset used [MGH Prediction Dataset](https://github.com/Irene-Chola/Massachussets-General-Hospital-Machine-Learning-Model/blob/main/MGH_Prediction_DataSet.csv)
+Here is the dataset used - [MGH Prediction Dataset](https://github.com/Irene-Chola/Massachussets-General-Hospital-Machine-Learning-Model/blob/main/MGH_Prediction_DataSet.csv)
+
+Here is the full python script for this project - [Python Script](https://github.com/Irene-Chola/Massachussets-General-Hospital-Machine-Learning-Model/blob/main/PREDICTING%20HEART%20DISEASE%20RISK%20PYTHON%20PROJECT.ipynb)
 
 # Table of Contents
 [Data Processing](data-processing)
@@ -162,4 +164,4 @@ To further improve the predictive ability of the models the following can be con
 
 ● Experts can be used to record more data points from the participants to increase the accuracy of the models.
 
-Here is the full python script for this project - [Python Script]()
+
