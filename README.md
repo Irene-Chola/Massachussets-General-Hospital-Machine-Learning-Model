@@ -25,12 +25,37 @@ Here is the dataset used [MGH Prediction Dataset](https://github.com/Irene-Chola
 ### Data Preprocessing 
 Handling nulls and missing data - By running a null check scan, we can find rows of data that possibly have null values. We can handle these rows of data by removing/dropping them. We replaced our nulls with mode for categorical values and mean for continuous values.
 
+```python
+# Replace the nulls
+# Categorical Data - Replace with Mode
+dataset['education'].fillna(dataset['education'].mode()[0], inplace = True)
+dataset['BPMeds'].fillna(dataset['BPMeds'].mode()[0], inplace = True)
+
+# Continous Data - Replace with Mean
+dataset['cigsPerDay'].fillna(dataset['cigsPerDay'].mean(), inplace = True)
+dataset['totChol'].fillna(dataset['totChol'].mean(), inplace = True)
+dataset['BMI'].fillna(dataset['BMI'].mean(), inplace = True)
+dataset['heartRate'].fillna(dataset['heartRate'].mean(), inplace = True)
+dataset['glucose'].fillna(dataset['glucose'].mean(), inplace = True
+
+```
+
 ### Exploratory Data Analysis
 Exploratory data analysis involves visualization of the relationship of various variables with the target variable. In the dataset the target variable is the tenYearCHD which is a binary value indicating the risk of coronary heart disease among the participants in a ten-year span.  
 
 In the exploratory data analysis, the following variable relationships were visualized: 
 - Sex
 - Age
+
+```
+ # Histogram Using Matplotlib
+ dataset['age'].hist(bins=20, edgecolor='black')
+ plt.title('Distribution of Age')
+ plt.xlabel('Age in Years')
+ plt.ylabel('Frequency')
+ plt.grid(True)
+
+```
 - Smoking status
 - Blood pressure meds usage 
 
