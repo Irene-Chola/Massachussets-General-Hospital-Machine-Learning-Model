@@ -6,15 +6,26 @@ Predicting heart disease risk is crucial for early intervention and preventive m
 
 The dataset used for this analysis contains a variety of attributes such as age, sex, cholesterol levels, blood pressure, and other relevant health indicators. 
 
-Here is the dataset used [Dataset](https://github.com/Irene-Chola/Massachussets-General-Hospital-Machine-Learning-Model/blob/main/MGH_Prediction_DataSet.csv)
+Here is the dataset used [MGH Prediction Dataset](https://github.com/Irene-Chola/Massachussets-General-Hospital-Machine-Learning-Model/blob/main/MGH_Prediction_DataSet.csv)
+
+## Table of Contents
+[Data Processing](data-processing)
+
+[Exploratory Data Analysis](exploratory-data-analysis)
+
+[Model Training and Validation ](model-training-and-validation)
+
+[Model Performance](model-performance)
+
+[Conclusion](Conclusion)
+
+[Recommendations ](recommendations)
+
 
 ### Data Preprocessing 
-- Handling nulls and missing data 
-By running a null check scan, we can find rows of data that possibly have null values. We can 
-handle these rows of data by removing/dropping them. We replaced our nulls with mode for 
-categorical values and mean for continuous values.
+Handling nulls and missing data - By running a null check scan, we can find rows of data that possibly have null values. We can handle these rows of data by removing/dropping them. We replaced our nulls with mode for categorical values and mean for continuous values.
 
-### Exploratory Data Analysis (EDA) 
+### Exploratory Data Analysis
 Exploratory data analysis involves visualization of the relationship of various variables with the target variable. In the dataset the target variable is the tenYearCHD which is a binary value indicating the risk of coronary heart disease among the participants in a ten-year span.  
 
 In the exploratory data analysis, the following variable relationships were visualized: 
@@ -40,7 +51,7 @@ The dataset is split into training and testing sets to train and validate the se
 
 The five models namely Decision tree, Logistic regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM) and Random Forest models are trained on the training set. The models are validated on the testing set and their performance is evaluated based on the accuracy score, recall, F1 score and ROC_AUC graph.  
 
-## Conclusion 
+## Observations 
 The performance of each model is as follows:
 ### 1. Decision Tree Model
 - Accuracy - 75%
