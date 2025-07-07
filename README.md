@@ -6,7 +6,7 @@ Predicting heart disease risk is crucial for early intervention and preventive m
 
 The dataset used for this analysis contains a variety of attributes such as age, sex, cholesterol levels, blood pressure, and other relevant health indicators. 
 
-Here is the dataset used []()
+Here is the dataset used [Dataset](https://github.com/Irene-Chola/Massachussets-General-Hospital-Machine-Learning-Model/blob/main/MGH_Prediction_DataSet.csv)
 
 ### Data Preprocessing 
 - Handling nulls and missing data 
