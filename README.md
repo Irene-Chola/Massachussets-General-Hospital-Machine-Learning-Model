@@ -49,7 +49,7 @@ The models are chosen based on their interpretability, performance, and suitabil
 
 The dataset is split into training and testing sets to train and validate the selected models. 
 
-The five models namely Decision tree, Logistic regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM) and Random Forest models are trained on the training set. The models are validated on the testing set and their performance is evaluated based on the accuracy score, recall, F1 score and ROC_AUC graph.  
+The five models are trained on the training set. The models are validated on the testing set and their performance is evaluated based on the accuracy score, recall, F1 score and ROC_AUC graph.  
 
 ## Observations 
 The performance of each model is as follows:
