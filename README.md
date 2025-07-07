@@ -46,7 +46,7 @@ Exploratory data analysis involves visualization of the relationship of various 
 In the exploratory data analysis, the following variable relationships were visualized: 
 ### 1. Age
 ### 2. Gender
-  - Occurances of TenYearCHD for each Gender
+  - Distribution of TenYearCHD for each Gender
 ```
 import matplotlib.pyplot as plt
 
@@ -74,6 +74,7 @@ for p in ax.patches:
 ## 3. Smoking status
 ## 4. Blood pressure meds usage
    -Grouping data by BPMeds and TenYearCHD 
+   
 ```import pandas as pd
 import matplotlib.pyplot as plt
 
