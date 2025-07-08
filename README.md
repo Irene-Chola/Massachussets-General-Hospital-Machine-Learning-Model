@@ -19,7 +19,7 @@ Machine Learning approach to predict cardiovascular disease risk using clinical 
 
 [Models Tested](#models-tested)
 
-[Models Training and Validation](#model-training-and-validation)
+[Models Training and Validation](#models-training-and-validation)
 
 [Models Performance](#models-performance)
 
