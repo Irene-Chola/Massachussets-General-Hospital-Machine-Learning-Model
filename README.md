@@ -1,8 +1,11 @@
 #  Heart Disease Risk Prediction Model
 Machine Learning approach to predict cardiovascular disease risk using clinical data.
 
----
+### Launch Jupyter Notebook
 
+[PREDICTING HEART DISEASE RISK PYTHON PROJECT](https://github.com/Irene-Chola/Massachussets-General-Hospital-Machine-Learning-Model/blob/main/PREDICTING%20HEART%20DISEASE%20RISK%20PYTHON%20PROJECT.ipynb)
+
+---
 # Table of Contents
 [Project Overview](project-overview)
 
@@ -59,7 +62,7 @@ Predicting heart disease risk is crucial for early intervention and preventive m
 
 Here is the dataset used - [MGH Prediction Dataset](https://github.com/Irene-Chola/Massachussets-General-Hospital-Machine-Learning-Model/blob/main/MGH_Prediction_DataSet.csv)
 
-Here is the full python script for this project - [Python Script](https://github.com/Irene-Chola/Massachussets-General-Hospital-Machine-Learning-Model/blob/main/PREDICTING%20HEART%20DISEASE%20RISK%20PYTHON%20PROJECT.ipynb)
+
 
 ---
 
