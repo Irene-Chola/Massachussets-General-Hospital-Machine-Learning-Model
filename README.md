@@ -14,7 +14,7 @@ Machine Learning approach to predict cardiovascular disease risk using clinical 
 
 [Models Tested](models-tested)
 
-[Model Training and Validation ](model-training-and-validation)
+[Models Training and Validation](model-training-and-validation)
 
 [Models Performance](models-performance)
 
@@ -22,7 +22,7 @@ Machine Learning approach to predict cardiovascular disease risk using clinical 
 
 [Findings](findings)
 
-[Limitations](limitations)
+[Project Limitations](project-limitations)
 
 ## Project Overview
 This machine learning project predicts the 10-year risk of coronary heart disease (CHD) using patient health data. The model analyzes various clinical indicators to provide early risk assessment, enabling proactive healthcare interventions.
@@ -178,7 +178,7 @@ Machine Learning Models
 
 The models are chosen based on their interpretability, performance, and suitability for the task of predicting heart disease risk. 
 
-## Model Training and Validation 
+## Models Training and Validation 
 
 The dataset is split into training and testing sets to train and validate the selected models. 
 
