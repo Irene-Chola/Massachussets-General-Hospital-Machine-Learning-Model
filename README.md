@@ -1,5 +1,7 @@
 #  Heart Disease Risk Prediction Model
-Machine Learning approach to predict cardiovascular disease risk using clinical data
+Machine Learning approach to predict cardiovascular disease risk using clinical data.
+
+---
 
 # Table of Contents
 [Project Overview](project-overview)
@@ -24,9 +26,13 @@ Machine Learning approach to predict cardiovascular disease risk using clinical 
 
 [Project Limitations](project-limitations)
 
+---
+
 ## Project Overview
 This machine learning project predicts the 10-year risk of coronary heart disease (CHD) using patient health data. The model analyzes various clinical indicators to provide early risk assessment, enabling proactive healthcare interventions.
 Predicting heart disease risk is crucial for early intervention and preventive measures, contributing to better healthcare outcomes and improved patient well-being. 
+
+---
 
 ## Dataset Information
 
@@ -55,6 +61,7 @@ Here is the dataset used - [MGH Prediction Dataset](https://github.com/Irene-Cho
 
 Here is the full python script for this project - [Python Script](https://github.com/Irene-Chola/Massachussets-General-Hospital-Machine-Learning-Model/blob/main/PREDICTING%20HEART%20DISEASE%20RISK%20PYTHON%20PROJECT.ipynb)
 
+---
 
 ## Data Preprocessing 
 Handling nulls and missing data - By running a null check scan, we can find rows of data that possibly have null values. We can handle these rows of data by removing/dropping them. We replaced our nulls with mode for categorical values and mean for continuous values.
