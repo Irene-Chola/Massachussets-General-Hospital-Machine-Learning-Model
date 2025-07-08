@@ -206,8 +206,6 @@ The five models are trained on the training set. The models are validated on the
 
 ## Model Selection
 
-**Best Model:**
-
 **Logistic Regression**
 
 **-Highest accuracy** (86%) with balanced precision and recall
