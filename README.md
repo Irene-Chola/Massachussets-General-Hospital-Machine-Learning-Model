@@ -7,27 +7,27 @@ Machine Learning approach to predict cardiovascular disease risk using clinical 
 
 ---
 # Table of Contents
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
-[Dataset Information](dataset-information)
+[Dataset Information](#dataset-information)
 
-[Data Preprocessing](data-preprocessing)
+[Data Preprocessing](#data-preprocessing)
 
-[Exploratory Data Analysis](exploratory-data-analysis)
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Visualization](data-visualization)
+[Data Visualization](#data-visualization)
 
-[Models Tested](models-tested)
+[Models Tested](#models-tested)
 
-[Models Training and Validation](model-training-and-validation)
+[Models Training and Validation](#model-training-and-validation)
 
-[Models Performance](models-performance)
+[Models Performance](#models-performance)
 
-[Model Selection](model-selection)
+[Model Selection](#model-selection)
 
-[Findings](findings)
+[Findings](#findings)
 
-[Project Limitations](project-limitations)
+[Project Limitations](#project-limitations)
 
 ---
 
